@@ -1,8 +1,8 @@
-# Facebook Post Scraping Bot
+# Facebook Post Scraper
 
 ## Overview
 
-The Facebook Posts Scraping Bot is a Python script written in python 3.11.4, designed for scraping posts from Facebook pages and groups based on specified keywords. The script utilizes the SeleniumBase library to automate the process. The scraped data is saved in JSON format, and two files are generated after each successful execution: one in the data folder containing the scraped posts data, and the other in the traces folder containing the execution trace.
+The Facebook Posts Scraper is a Python script written in python 3.11.4, designed for scraping posts from Facebook pages and groups based on specified keywords. The script utilizes the SeleniumBase library to automate the process. The scraped data is saved in JSON format, and two files are generated after each successful execution: one in the data folder containing the scraped posts data, and the other in the traces folder containing the execution trace.
 
 ## Dependencies
 
